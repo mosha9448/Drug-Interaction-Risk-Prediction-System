@@ -1,0 +1,1001 @@
+patient_id,age,gender,disease,drugA,drugB,side_effect
+P0000,34,Male,Liver disease,Trimetrexate,Butabarbital,Dizziness
+P0001,84,Male,Depression,Normethadone,Trifluoperazine,Vomiting
+P0002,26,Female,Hypertension,Vorapaxar,Cefmenoxime,Nausea
+P0003,25,Male,Asthma,Methylpentynol,Thiamylal,Fatigue
+P0004,87,Female,Liver disease,Busulfan,Decitabine,Bleeding
+P0005,83,Male,Stroke,Fluvastatin,Baclofen,Nausea
+P0006,68,Female,Cancer,Olanzapine,Levomilnacipran,Vomiting
+P0007,20,Male,Depression,Beloranib,Benzyl alcohol,Arrhythmia
+P0008,54,Female,Diabetes,Atazanavir,Etizolam,Headache
+P0009,36,Female,Asthma,Potassium carbonate,Propranolol,Nausea
+P0010,47,Female,Depression,Chloropyramine,Iofetamine I-123,Vomiting
+P0011,75,Male,Stroke,Estradiol dienanthate,Ceforanide,Arrhythmia
+P0012,59,Male,Heart disease,Cinolazepam,Chlormezanone,Arrhythmia
+P0013,22,Female,Depression,Loxoprofen,Succinylcholine,Dizziness
+P0014,24,Male,Depression,Niguldipine,Potassium perchlorate,Nausea
+P0015,57,Male,Arthritis,Azaperone,Pyrantel,Vomiting
+P0016,65,Male,Arthritis,Hydrocortisone acetate,Maxacalcitol,Arrhythmia
+P0017,58,Female,Hypertension,Eribulin,Allopurinol,Vomiting
+P0018,20,Female,Arthritis,Hydromorphone,Vilazodone,Dizziness
+P0019,42,Female,Liver disease,Zotepine,Rocuronium,Fatigue
+P0020,57,Male,Hypertension,Taranabant,PRX-08066,Kidney damage
+P0021,74,Male,Liver disease,Vemurafenib,Manidipine,Kidney damage
+P0022,67,Female,Heart disease,Antipyrine,Phenoxybenzamine,Fatigue
+P0023,34,Female,Heart disease,Piperidolate,Bambuterol,Fatigue
+P0024,21,Female,Heart disease,Dasatinib,Pasireotide,Vomiting
+P0025,47,Male,Heart disease,Fluticasone,Doxazosin,Nausea
+P0026,87,Female,Liver disease,Propofol,Tianeptine,Arrhythmia
+P0027,69,Male,Liver disease,Gatifloxacin,Dexamethasone,Vomiting
+P0028,32,Female,Heart disease,Olsalazine,Benzatropine,Headache
+P0029,88,Male,Heart disease,Ceftolozane,Trifluridine,Fatigue
+P0030,68,Female,Kidney disease,Fosphenytoin,Dexlansoprazole,Dizziness
+P0031,31,Female,Cancer,Nisoldipine,Potassium Iodide,Vomiting
+P0032,21,Female,Diabetes,Everolimus,Ivosidenib,Bleeding
+P0033,23,Female,Arthritis,Metocurine,Desvenlafaxine,Kidney damage
+P0034,27,Male,Stroke,Remacemide,7-Deazaguanine,Vomiting
+P0035,67,Male,Kidney disease,Cyclizine,Sertraline,Arrhythmia
+P0036,82,Male,Stroke,Elagolix,Eszopiclone,Dizziness
+P0037,88,Male,Depression,Mibefradil,"5-methoxy-N,N-dimethyltryptamine",Headache
+P0038,68,Male,Arthritis,Fleroxacin,Choline magnesium trisalicylate,Vomiting
+P0039,46,Female,Arthritis,Metixene,Lubiprostone,Kidney damage
+P0040,64,Female,Asthma,Trichloroethylene,Zaltoprofen,Vomiting
+P0041,36,Male,Stroke,Celecoxib,Resmetirom,Fatigue
+P0042,54,Female,Stroke,Metixene,Alloin,Dizziness
+P0043,70,Female,Heart disease,Paramethadione,Selumetinib,Vomiting
+P0044,84,Female,Liver disease,Metocurine,Ziprasidone,Dizziness
+P0045,64,Male,Arthritis,Cefradine,Cefozopran,Arrhythmia
+P0046,31,Male,Diabetes,Quinine,Sodium oxybate,Nausea
+P0047,62,Female,Cancer,Aranidipine,Azapropazone,Kidney damage
+P0048,27,Male,Heart disease,Tilmicosin,Triazolam,Vomiting
+P0049,57,Female,Asthma,Cinoxacin,Morniflumate,Headache
+P0050,80,Female,Arthritis,Oxymetholone,Cyclosporine,Bleeding
+P0051,55,Male,Hypertension,Glutethimide,Promazine,Vomiting
+P0052,27,Female,Kidney disease,Escitalopram,Garenoxacin,Fatigue
+P0053,85,Male,Stroke,Pramipexole,Trimethoprim,Fatigue
+P0054,63,Female,Depression,Methyldopa,Trifluoperazine,Vomiting
+P0055,89,Female,Liver disease,Canrenoic acid,Prednisone,Kidney damage
+P0056,89,Male,Stroke,Lorajmine,Dexchlorpheniramine,Bleeding
+P0057,59,Female,Diabetes,Diethylpropion,S-Ethylisothiourea,Fatigue
+P0058,63,Female,Kidney disease,Dezocine,Procyclidine,Kidney damage
+P0059,50,Male,Depression,Robenacoxib,Xipamide,Headache
+P0060,86,Female,Cancer,Mitapivat,Abacavir,Dizziness
+P0061,30,Female,Diabetes,Psilocybin,Dibenzepin,Kidney damage
+P0062,25,Female,Heart disease,Gentamicin,Lamotrigine,Fatigue
+P0063,22,Male,Asthma,Amphetamine,Testosterone,Fatigue
+P0064,47,Male,Hypertension,Cyclandelate,Indinavir,Headache
+P0065,33,Male,Stroke,Eliglustat,Ethambutol,Kidney damage
+P0066,61,Male,Hypertension,Roflumilast,Alosetron,Vomiting
+P0067,75,Male,Heart disease,Trimethadione,Tranylcypromine,Dizziness
+P0068,55,Male,Diabetes,Levocetirizine,Methotrimeprazine,Vomiting
+P0069,22,Female,Diabetes,Alfuzosin,Cerivastatin,Kidney damage
+P0070,43,Male,Liver disease,Fluvoxamine,Tolterodine,Bleeding
+P0071,21,Male,Stroke,Sparsomycin,Levobupivacaine,Kidney damage
+P0072,20,Male,Stroke,Vincristine,Mometasone furoate,Headache
+P0073,80,Male,Hypertension,Methsuximide,Haloperidol,Arrhythmia
+P0074,41,Male,Hypertension,Neamine,Meticillin,Vomiting
+P0075,43,Female,Diabetes,Bupivacaine,Clarithromycin,Fatigue
+P0076,81,Male,Arthritis,Yohimbine,Rasagiline,Kidney damage
+P0077,40,Male,Stroke,Regorafenib,Carfilzomib,Kidney damage
+P0078,66,Male,Asthma,Venlafaxine,Xamoterol,Fatigue
+P0079,67,Male,Asthma,Ritonavir,Simeprevir,Headache
+P0080,60,Female,Arthritis,Codeine,Methapyrilene,Kidney damage
+P0081,30,Female,Kidney disease,Sulbactam,Ketorolac,Kidney damage
+P0082,23,Male,Liver disease,Pitolisant,Crinecerfont,Kidney damage
+P0083,18,Male,Diabetes,Nifedipine,Hypoxanthine,Arrhythmia
+P0084,36,Male,Liver disease,Antrafenine,Reserpine,Fatigue
+P0085,64,Female,Liver disease,Cannabidivarin,Adinazolam,Arrhythmia
+P0086,22,Male,Diabetes,Ifetroban,Carboplatin,Arrhythmia
+P0087,19,Female,Stroke,Tapentadol,Tilidine,Nausea
+P0088,47,Male,Hypertension,Methoxsalen,Oseltamivir,Headache
+P0089,26,Female,Diabetes,Cannabinol,Methotrimeprazine,Fatigue
+P0090,65,Female,Arthritis,Alfentanil,Bopindolol,Headache
+P0091,46,Female,Diabetes,Benzatropine,Macitentan,Kidney damage
+P0092,44,Female,Depression,Glycocholic acid,Cloricromen,Bleeding
+P0093,29,Female,Asthma,Ezogabine,Gallamine,Vomiting
+P0094,25,Male,Asthma,Trofosfamide,Pralatrexate,Fatigue
+P0095,62,Female,Kidney disease,Lobeglitazone,Rimexolone,Arrhythmia
+P0096,79,Male,Kidney disease,Clidinium,Synephrine,Fatigue
+P0097,45,Female,Arthritis,Vancomycin,Cefaclor,Fatigue
+P0098,66,Female,Stroke,Allobarbital,Nortriptyline,Arrhythmia
+P0099,60,Female,Depression,Lenacapavir,Indalpine,Kidney damage
+P0100,53,Female,Diabetes,Ditiocarb,Lumacaftor,Dizziness
+P0101,51,Male,Depression,Cefapirin,Gentamicin,Bleeding
+P0102,67,Female,Liver disease,Nialamide,Tolfenamic acid,Dizziness
+P0103,81,Female,Stroke,Warfarin,Ledipasvir,Dizziness
+P0104,73,Male,Hypertension,Cefacetrile,Etodolac,Vomiting
+P0105,51,Male,Depression,Amoxapine,Etafedrine,Arrhythmia
+P0106,79,Female,Arthritis,Vandetanib,Citalopram,Fatigue
+P0107,78,Male,Cancer,Bosentan,Mefenorex,Kidney damage
+P0108,55,Female,Diabetes,Dantron,Atropine,Vomiting
+P0109,45,Female,Asthma,Cyclandelate,Sulfasalazine,Headache
+P0110,29,Female,Cancer,Rilzabrutinib,Chenodeoxycholic acid,Kidney damage
+P0111,47,Male,Kidney disease,Wortmannin,Oxaprotiline,Arrhythmia
+P0112,87,Male,Depression,Donepezil,Dibenzepin,Bleeding
+P0113,53,Female,Diabetes,Trilostane,Sarafloxacin,Vomiting
+P0114,69,Male,Asthma,Arbutamine,Chlorphentermine,Dizziness
+P0115,32,Female,Kidney disease,Ixabepilone,Enzalutamide,Nausea
+P0116,78,Female,Arthritis,Olsalazine,Latamoxef,Nausea
+P0117,66,Female,Depression,8-chlorotheophylline,Etilefrine,Nausea
+P0118,37,Female,Kidney disease,Bucindolol,Eletriptan,Arrhythmia
+P0119,53,Female,Depression,Secobarbital,Cefatrizine,Kidney damage
+P0120,23,Male,Arthritis,Palonosetron,Flurbiprofen,Nausea
+P0121,45,Female,Arthritis,Cidofovir,Tepoxalin,Vomiting
+P0122,29,Male,Diabetes,Pivhydrazine,Surinabant,Vomiting
+P0123,54,Male,Depression,Cisatracurium,Trovafloxacin,Headache
+P0124,29,Female,Diabetes,Phenacemide,Romifidine,Arrhythmia
+P0125,66,Male,Hypertension,Propyphenazone,Seproxetine,Bleeding
+P0126,50,Female,Arthritis,Clomethiazole,Oxazepam acetate,Bleeding
+P0127,61,Female,Arthritis,Chlorthalidone,Guanoclor,Nausea
+P0128,78,Male,Heart disease,Melperone,Hydroxocobalamin,Dizziness
+P0129,24,Male,Depression,Tolmetin,Trimethadione,Vomiting
+P0130,60,Male,Kidney disease,Desomorphine,Meclizine,Vomiting
+P0131,39,Female,Cancer,Cefepime,Pemetrexed,Headache
+P0132,76,Female,Cancer,Hexobarbital,Diacerein,Nausea
+P0133,84,Female,Asthma,Ridogrel,Acemetacin,Headache
+P0134,25,Male,Depression,Phosphoric acid,Terbutaline,Nausea
+P0135,42,Female,Heart disease,Tolonidine,Etomidate,Headache
+P0136,31,Male,Kidney disease,Estradiol acetate,Amphetamine,Dizziness
+P0137,49,Female,Asthma,Pramocaine,TNP-470,Dizziness
+P0138,54,Female,Depression,Etodolac,Iprindole,Fatigue
+P0139,34,Male,Liver disease,Reposal,Bupivacaine,Fatigue
+P0140,76,Female,Asthma,Nortriptyline,Cocaine,Dizziness
+P0141,55,Male,Depression,Estradiol dienanthate,Axitinib,Kidney damage
+P0142,55,Female,Heart disease,Quinupristin,Benzocaine,Nausea
+P0143,34,Male,Cancer,Anisotropine methylbromide,Morphine,Fatigue
+P0144,63,Female,Depression,Abediterol,Metolazone,Arrhythmia
+P0145,74,Female,Depression,Ketoconazole,Bazedoxifene,Bleeding
+P0146,77,Female,Arthritis,Dihydroergocornine,Lonazolac,Bleeding
+P0147,86,Male,Diabetes,Imatinib,Isoflurane,Kidney damage
+P0148,34,Female,Liver disease,Fluindione,Pemafibrate,Nausea
+P0149,74,Female,Asthma,Vinbarbital,Propanidid,Dizziness
+P0150,61,Male,Stroke,Epinastine,Chlorphentermine,Arrhythmia
+P0151,71,Female,Heart disease,Adefovir,Lubiprostone,Arrhythmia
+P0152,78,Male,Hypertension,Dixyrazine,Methyprylon,Arrhythmia
+P0153,38,Male,Kidney disease,Astemizole,Perospirone,Dizziness
+P0154,62,Male,Stroke,Chloroquine,Ramelteon,Nausea
+P0155,45,Male,Arthritis,Etilefrine,Valdecoxib,Vomiting
+P0156,81,Male,Diabetes,Bevonium,Dobutamine,Headache
+P0157,34,Male,Depression,Procaine benzylpenicillin,Ibuprofen,Vomiting
+P0158,76,Female,Diabetes,Bromisoval,Iprindole,Arrhythmia
+P0159,73,Male,Heart disease,Gepirone,Galantamine,Kidney damage
+P0160,43,Male,Depression,Cariprazine,Desloratadine,Nausea
+P0161,48,Female,Cancer,Venetoclax,Articaine,Fatigue
+P0162,30,Male,Hypertension,Acemetacin,Edoxaban,Dizziness
+P0163,73,Male,Liver disease,AZD-3043,Cathinone,Fatigue
+P0164,20,Male,Depression,4-Methoxyamphetamine,Gedocarnil,Nausea
+P0165,48,Male,Stroke,Sulfameter,Anagliptin,Nausea
+P0166,64,Female,Arthritis,Trimipramine,Diphemanil,Dizziness
+P0167,37,Male,Liver disease,Sotalol,Rolapitant,Dizziness
+P0168,48,Female,Asthma,Clofazimine,Quinacrine,Fatigue
+P0169,79,Male,Heart disease,Lorcaserin,Rupatadine,Fatigue
+P0170,57,Female,Heart disease,Chlorzoxazone,Cinitapride,Fatigue
+P0171,36,Male,Hypertension,Furosemide,Proscillaridin,Bleeding
+P0172,61,Male,Depression,Nelfinavir,Magnesium oxide,Kidney damage
+P0173,78,Female,Diabetes,Naluzotan,Cannabidiol,Arrhythmia
+P0174,56,Female,Kidney disease,Oxyfedrine,Orphenadrine,Headache
+P0175,18,Male,Kidney disease,Pimavanserin,Fluorouracil,Dizziness
+P0176,84,Male,Stroke,Paroxetine,Mavorixafor,Bleeding
+P0177,63,Female,Liver disease,Remifentanil,Samidorphan,Bleeding
+P0178,62,Male,Cancer,Glycol salicylate,Xipamide,Arrhythmia
+P0179,50,Female,Asthma,Melperone,Agmatine,Fatigue
+P0180,66,Female,Depression,Dolutegravir,Binimetinib,Bleeding
+P0181,69,Male,Depression,Disulfiram,Crizotinib,Vomiting
+P0182,49,Female,Arthritis,Paliperidone,Theobromine,Vomiting
+P0183,76,Male,Stroke,Tertatolol,6-O-benzylguanine,Kidney damage
+P0184,45,Male,Hypertension,Sulbactam,Flutamide,Arrhythmia
+P0185,31,Male,Arthritis,Methoxyphenamine,Desmopressin,Vomiting
+P0186,43,Female,Liver disease,Gallamine triethiodide,Mephenoxalone,Fatigue
+P0187,68,Female,Liver disease,Bisoxatin,Trospium,Bleeding
+P0188,36,Female,Stroke,Cobicistat,Albendazole,Headache
+P0189,56,Female,Depression,Phenformin,Nimodipine,Nausea
+P0190,55,Male,Arthritis,Ziprasidone,Nadolol,Bleeding
+P0191,74,Female,Kidney disease,Gliquidone,Arachidonic Acid,Kidney damage
+P0192,36,Male,Hypertension,Hydroxychloroquine,Roxadustat,Headache
+P0193,75,Male,Stroke,Cyamemazine,Azelastine,Vomiting
+P0194,73,Female,Hypertension,Desipramine,Pentamidine,Dizziness
+P0195,83,Male,Diabetes,Ethosuximide,Medroxyprogesterone acetate,Headache
+P0196,60,Female,Kidney disease,Udenafil,Gliquidone,Bleeding
+P0197,77,Female,Liver disease,Cicletanine,Flibanserin,Fatigue
+P0198,25,Female,Diabetes,Procaine,6-O-benzylguanine,Arrhythmia
+P0199,18,Female,Depression,Pracinostat,Lithium cation,Nausea
+P0200,65,Female,Diabetes,Dicyclomine,Morniflumate,Headache
+P0201,62,Male,Arthritis,Timolol,Dantrolene,Kidney damage
+P0202,87,Male,Hypertension,Thiopropazate,Ifenprodil,Vomiting
+P0203,57,Male,Liver disease,Oxaliplatin,Edetic acid,Fatigue
+P0204,87,Male,Arthritis,Fenproporex,Cefdinir,Kidney damage
+P0205,50,Male,Asthma,Desoxycorticosterone acetate,Enzalutamide,Dizziness
+P0206,86,Female,Kidney disease,Chlorzoxazone,Foscarnet,Fatigue
+P0207,72,Male,Diabetes,Phenylbutazone,Etrasimod,Arrhythmia
+P0208,82,Female,Hypertension,Nitroglycerin,Solriamfetol,Nausea
+P0209,36,Male,Arthritis,Ketoconazole,Grepafloxacin,Dizziness
+P0210,72,Male,Depression,Piroxicam,Choline salicylate,Vomiting
+P0211,73,Female,Diabetes,Epicaptopril,Bumadizone,Nausea
+P0212,51,Female,Kidney disease,Nicorandil,Bopindolol,Vomiting
+P0213,76,Male,Kidney disease,Trichlormethiazide,Fentanyl,Vomiting
+P0214,33,Female,Hypertension,Tramadol,Selamectin,Fatigue
+P0215,66,Female,Kidney disease,Zomepirac,Alprenolol,Dizziness
+P0216,66,Female,Diabetes,Indapamide,Efavirenz,Kidney damage
+P0217,61,Female,Liver disease,Normethadone,Phenazocine,Bleeding
+P0218,81,Male,Liver disease,Chromous sulfate,Estradiol valerate,Fatigue
+P0219,88,Female,Kidney disease,Ceforanide,Proparacaine,Nausea
+P0220,65,Male,Liver disease,Sulpiride,Doxacurium,Dizziness
+P0221,30,Female,Hypertension,Tasosartan,Monopotassium phosphate,Arrhythmia
+P0222,52,Male,Asthma,Temefos,Dichlorvos,Fatigue
+P0223,32,Male,Cancer,Diflunisal,Clobetasol propionate,Nausea
+P0224,41,Female,Hypertension,Deferiprone,Cefroxadine,Vomiting
+P0225,38,Female,Diabetes,Abexinostat,Procainamide,Kidney damage
+P0226,72,Female,Kidney disease,Oxaprozin,Indacaterol,Nausea
+P0227,80,Female,Cancer,Diethylpropion,Pargyline,Dizziness
+P0228,89,Male,Hypertension,Carmegliptin,Valsartan,Arrhythmia
+P0229,88,Female,Cancer,Clomipramine,Hyoscyamine,Bleeding
+P0230,24,Female,Stroke,Canrenoic acid,Aztreonam,Fatigue
+P0231,52,Female,Depression,Lofexidine,Drotebanol,Nausea
+P0232,67,Male,Heart disease,Desloratadine,Citalopram,Bleeding
+P0233,44,Female,Kidney disease,Ioxilan,Chromium nicotinate,Arrhythmia
+P0234,77,Female,Diabetes,Perazine,Lamotrigine,Nausea
+P0235,82,Male,Hypertension,NS-398,Flibanserin,Bleeding
+P0236,28,Female,Liver disease,Ketobemidone,Camylofin,Nausea
+P0237,65,Female,Cancer,Barnidipine,Amitriptyline,Fatigue
+P0238,42,Male,Heart disease,Oxazepam,Mercaptopurine,Arrhythmia
+P0239,73,Male,Liver disease,Lusutrombopag,Mefloquine,Fatigue
+P0240,38,Female,Cancer,Belzutifan,Dronabinol,Fatigue
+P0241,72,Male,Arthritis,Ethoxzolamide,Thiethylperazine,Fatigue
+P0242,46,Female,Liver disease,Migalastat,Zaleplon,Vomiting
+P0243,58,Female,Cancer,Aripiprazole lauroxil,Carboxyamidotriazole,Kidney damage
+P0244,48,Male,Heart disease,Cisplatin,Ephedrine,Dizziness
+P0245,25,Female,Cancer,Astemizole,Ridaforolimus,Vomiting
+P0246,35,Female,Kidney disease,Vortioxetine,Netoglitazone,Bleeding
+P0247,89,Female,Depression,Olsalazine,Ramipril,Arrhythmia
+P0248,55,Male,Cancer,Atracurium besylate,Diphenidol,Vomiting
+P0249,39,Female,Hypertension,Albuterol,Cefradine,Vomiting
+P0250,29,Male,Diabetes,Colchicine,Cefbuperazone,Fatigue
+P0251,27,Female,Depression,Ecopipam,Bromazepam,Nausea
+P0252,34,Female,Depression,Fencamfamin,Gallamine,Headache
+P0253,37,Male,Cancer,Pefloxacin,3-isobutyl-1-methyl-7H-xanthine,Vomiting
+P0254,69,Male,Arthritis,Methylpentynol,Pipecuronium,Vomiting
+P0255,61,Female,Stroke,Nadolol,N-methylnicotinamide,Dizziness
+P0256,73,Male,Depression,Doxycycline,Etoricoxib,Arrhythmia
+P0257,65,Female,Kidney disease,Homatropine methylbromide,Fenozolone,Bleeding
+P0258,32,Female,Asthma,Dalfampridine,Cefaclor,Bleeding
+P0259,57,Male,Asthma,Mivacurium,GW842166,Fatigue
+P0260,79,Male,Heart disease,Lornoxicam,Anisodamine,Fatigue
+P0261,66,Female,Stroke,Lofepramine,Lorcaserin,Dizziness
+P0262,82,Female,Stroke,Astemizole,Dexfenfluramine,Headache
+P0263,67,Female,Hypertension,Latamoxef,Pamidronic acid,Vomiting
+P0264,21,Female,Diabetes,Disulfiram,Methohexital,Kidney damage
+P0265,76,Female,Hypertension,Duloxetine,Oxybenzone,Fatigue
+P0266,31,Female,Liver disease,Chlorpromazine,Prednisone,Kidney damage
+P0267,53,Female,Hypertension,Potassium sulfate,Procaine benzylpenicillin,Dizziness
+P0268,19,Male,Stroke,Benzatropine,Benorilate,Fatigue
+P0269,61,Female,Stroke,Cefuroxime,Alogliptin,Arrhythmia
+P0270,66,Male,Heart disease,Olmesartan,Lisuride,Headache
+P0271,28,Male,Liver disease,Sorafenib,Fenoldopam,Arrhythmia
+P0272,80,Male,Arthritis,Fenquizone,Empagliflozin,Arrhythmia
+P0273,80,Male,Heart disease,Tramadol,Cloxazolam,Dizziness
+P0274,62,Male,Hypertension,Clobazam,Lithium cation,Headache
+P0275,85,Female,Kidney disease,Domperidone,Imipramine,Bleeding
+P0276,37,Male,Depression,Diethylstilbestrol,Clonidine,Nausea
+P0277,73,Male,Heart disease,Norfloxacin,Luseogliflozin,Dizziness
+P0278,41,Male,Liver disease,Rucaparib,Gemfibrozil,Fatigue
+P0279,79,Female,Kidney disease,Melatonin,Dextromethorphan,Fatigue
+P0280,47,Male,Hypertension,Rolipram,Dimenhydrinate,Nausea
+P0281,50,Female,Stroke,Axitinib,Infigratinib,Kidney damage
+P0282,78,Female,Kidney disease,Tiopronin,Quinidine,Kidney damage
+P0283,35,Male,Asthma,Etoperidone,Cefradine,Fatigue
+P0284,50,Female,Asthma,Trimethobenzamide,Carbromal,Arrhythmia
+P0285,45,Female,Arthritis,Omaveloxolone,Flunitrazepam,Headache
+P0286,20,Male,Heart disease,Magnesium carbonate,Methylprednisolone,Kidney damage
+P0287,89,Female,Diabetes,Crinecerfont,Ritonavir,Dizziness
+P0288,44,Male,Liver disease,Bleomycin,Peficitinib,Headache
+P0289,46,Female,Asthma,Cicletanine,Tinoridine,Arrhythmia
+P0290,73,Female,Arthritis,Betaxolol,Nimesulide,Nausea
+P0291,82,Male,Hypertension,Clobazam,Curcumin sulfate,Arrhythmia
+P0292,43,Male,Stroke,Gentamicin,Pivampicillin,Vomiting
+P0293,68,Male,Stroke,Escitalopram,S-Ethylisothiourea,Nausea
+P0294,52,Male,Stroke,Valproic acid,Levonorgestrel,Dizziness
+P0295,47,Male,Kidney disease,Aztreonam,Tiotropium,Bleeding
+P0296,56,Male,Cancer,Manidipine,Benoxaprofen,Vomiting
+P0297,63,Female,Diabetes,Clodronic acid,Ferric sulfate,Nausea
+P0298,74,Male,Heart disease,Lorajmine,Cilostazol,Bleeding
+P0299,47,Male,Hypertension,Dabigatran etexilate,Guanethidine,Headache
+P0300,54,Female,Diabetes,Gilteritinib,WIN 55212-2,Kidney damage
+P0301,40,Female,Depression,Piretanide,Troglitazone,Fatigue
+P0302,67,Male,Arthritis,Meprednisone,Fluperolone,Fatigue
+P0303,45,Female,Heart disease,Tesmilifene,Darexaban,Dizziness
+P0304,43,Male,Depression,Felodipine,Nitroglycerin,Nausea
+P0305,72,Female,Arthritis,Lumiracoxib,Tetrahydrocannabivarin,Nausea
+P0306,65,Male,Heart disease,Captopril,Brexpiprazole,Kidney damage
+P0307,85,Male,Diabetes,Pergolide,Amitraz,Fatigue
+P0308,54,Male,Hypertension,Calcium silicate,Chlorpromazine,Dizziness
+P0309,84,Male,Arthritis,Orvepitant,Succinylcholine,Vomiting
+P0310,55,Male,Liver disease,Cinchocaine,Tesevatinib,Nausea
+P0311,64,Male,Hypertension,Fenbufen,Nitric Oxide,Headache
+P0312,71,Female,Kidney disease,Agomelatine,Zidovudine,Vomiting
+P0313,81,Female,Asthma,Leniolisib,Pirfenidone,Bleeding
+P0314,76,Male,Diabetes,Triprolidine,Daridorexant,Nausea
+P0315,78,Female,Depression,Propiopromazine,Metocurine,Dizziness
+P0316,61,Male,Liver disease,Capecitabine,Melengestrol,Kidney damage
+P0317,30,Female,Arthritis,Methoxyflurane,Butaperazine,Nausea
+P0318,56,Male,Hypertension,Delapril,Mannitol,Vomiting
+P0319,76,Female,Stroke,Bilastine,Levofloxacin,Headache
+P0320,57,Female,Liver disease,Sulfasalazine,Loxoprofen,Headache
+P0321,36,Female,Arthritis,Edrophonium,Cefpodoxime,Bleeding
+P0322,53,Male,Diabetes,Azilsartan medoxomil,Fenoprofen,Vomiting
+P0323,24,Female,Asthma,Cefmenoxime,Estradiol dienanthate,Arrhythmia
+P0324,51,Male,Heart disease,Tiletamine,Estetrol,Arrhythmia
+P0325,73,Female,Cancer,Nimesulide,Dofetilide,Bleeding
+P0326,45,Female,Diabetes,Ritobegron,Aminophenazone,Arrhythmia
+P0327,60,Male,Heart disease,Doripenem,Lornoxicam,Vomiting
+P0328,61,Male,Stroke,Azelastine,Pyrantel,Vomiting
+P0329,47,Female,Arthritis,Perampanel,Tacrine,Arrhythmia
+P0330,53,Male,Hypertension,Medroxyprogesterone acetate,Benzydamine,Vomiting
+P0331,18,Male,Kidney disease,Guanabenz,Omapatrilat,Kidney damage
+P0332,58,Female,Depression,Sevoflurane,Guanoxan,Dizziness
+P0333,22,Female,Arthritis,Cinnarizine,Disopyramide,Vomiting
+P0334,87,Male,Hypertension,Perindopril,Dosulepin,Headache
+P0335,69,Female,Hypertension,Pafolacianine,Leucovorin,Bleeding
+P0336,54,Male,Heart disease,Lithium cation,Propofol,Headache
+P0337,33,Female,Liver disease,Ticlopidine,Bendroflumethiazide,Fatigue
+P0338,88,Female,Asthma,Lithium hydroxide,Clevidipine,Headache
+P0339,62,Female,Kidney disease,Potassium triiodide,Candesartan,Arrhythmia
+P0340,37,Female,Arthritis,Zolpidem,Nordazepam,Headache
+P0341,38,Female,Heart disease,Cannabidiol,Bambuterol,Vomiting
+P0342,42,Female,Stroke,Nimodipine,Quinapril,Vomiting
+P0343,86,Female,Cancer,Sucralfate,Droxidopa,Arrhythmia
+P0344,43,Female,Stroke,Bromocriptine,Dopamine,Headache
+P0345,27,Female,Depression,Methylthiouracil,Argatroban,Nausea
+P0346,30,Male,Cancer,4-methylumbelliferyl beta-D-glucoside,Glimepiride,Dizziness
+P0347,35,Female,Arthritis,Betaxolol,Antipyrine,Arrhythmia
+P0348,70,Male,Arthritis,Tramadol,Danazol,Arrhythmia
+P0349,50,Male,Kidney disease,Minoxidil,Orciprenaline,Vomiting
+P0350,41,Male,Diabetes,Vorapaxar,Elexacaftor,Fatigue
+P0351,28,Male,Cancer,Lercanidipine,Desmopressin,Kidney damage
+P0352,56,Male,Depression,Carbocisteine,Tolbutamide,Nausea
+P0353,58,Male,Cancer,Prenylamine,Ertugliflozin,Nausea
+P0354,60,Female,Arthritis,Encorafenib,Captopril,Bleeding
+P0355,23,Male,Stroke,Almotriptan,Tadalafil,Headache
+P0356,49,Male,Asthma,Hydroflumethiazide,Baclofen,Vomiting
+P0357,75,Female,Stroke,Almotriptan,Oxacillin,Headache
+P0358,26,Male,Hypertension,Potassium cation,Gadopentetic acid,Headache
+P0359,64,Female,Kidney disease,Nicardipine,Indalpine,Arrhythmia
+P0360,40,Female,Liver disease,Edetic acid,Cefoperazone,Dizziness
+P0361,22,Female,Kidney disease,Ifenprodil,Lisofylline,Fatigue
+P0362,77,Male,Arthritis,Dihydroetorphine,Prochlorperazine,Vomiting
+P0363,38,Male,Cancer,Epoprostenol,Adefovir dipivoxil,Vomiting
+P0364,78,Male,Stroke,Benzyl alcohol,Letermovir,Headache
+P0365,49,Male,Cancer,Cafedrine,Flunarizine,Headache
+P0366,57,Male,Depression,Paliperidone,Epicriptine,Nausea
+P0367,78,Male,Liver disease,Mazaticol,Ziprasidone,Arrhythmia
+P0368,18,Female,Depression,Olutasidenib,Ulipristal,Fatigue
+P0369,87,Male,Stroke,Adenosine,Antazoline,Fatigue
+P0370,40,Male,Stroke,Loxoprofen,Oxolinic acid,Nausea
+P0371,66,Male,Cancer,Trazodone,Veralipride,Headache
+P0372,61,Male,Heart disease,Arformoterol,Orciprenaline,Headache
+P0373,48,Male,Diabetes,Cefotaxime,Oxalic Acid,Arrhythmia
+P0374,23,Male,Cancer,Apalutamide,Nitrofurantoin,Dizziness
+P0375,84,Male,Liver disease,Rofecoxib,Permethrin,Vomiting
+P0376,54,Male,Diabetes,Phentermine,Buclizine,Nausea
+P0377,60,Female,Arthritis,Ethotoin,Zotepine,Kidney damage
+P0378,46,Male,Heart disease,Cloxazolam,Methotrimeprazine,Kidney damage
+P0379,84,Male,Cancer,Ketobemidone,MK-212,Vomiting
+P0380,28,Male,Asthma,Buspirone,Perphenazine,Kidney damage
+P0381,22,Male,Cancer,Cyclophosphamide,Methadone,Vomiting
+P0382,36,Male,Liver disease,Alfentanil,Alimemazine,Kidney damage
+P0383,33,Male,Liver disease,Meclizine,Sennosides,Dizziness
+P0384,23,Male,Arthritis,Disopyramide,Sulfathiazole,Vomiting
+P0385,46,Male,Stroke,Nalbuphine,Bisoxatin,Bleeding
+P0386,43,Male,Asthma,Ramelteon,Epinastine,Vomiting
+P0387,25,Male,Diabetes,Talniflumate,Methadone,Nausea
+P0388,20,Female,Stroke,Lopinavir,Lumateperone,Arrhythmia
+P0389,54,Male,Cancer,Indinavir,Vanoxerine,Arrhythmia
+P0390,21,Female,Asthma,Potassium hydroxide,Terodiline,Nausea
+P0391,22,Female,Kidney disease,Amiloride,Iproniazid,Fatigue
+P0392,62,Male,Kidney disease,Glycerol phenylbutyrate,Colchicine,Vomiting
+P0393,85,Male,Stroke,Bisegliptin,Garenoxacin,Bleeding
+P0394,76,Female,Kidney disease,Selexipag,Afatinib,Fatigue
+P0395,70,Female,Stroke,Prednylidene,Tripamide,Headache
+P0396,86,Male,Liver disease,Acenocoumarol,Temocillin,Dizziness
+P0397,68,Female,Arthritis,Nicardipine,Seletracetam,Nausea
+P0398,21,Female,Depression,Kebuzone,Methotrexate,Bleeding
+P0399,38,Female,Kidney disease,Nateglinide,Desmopressin,Arrhythmia
+P0400,35,Female,Arthritis,Taxifolin,Captopril,Dizziness
+P0401,44,Female,Diabetes,Taxifolin,Nitroprusside,Arrhythmia
+P0402,62,Male,Asthma,Rescinnamine,Atomoxetine,Fatigue
+P0403,66,Female,Asthma,Zaltoprofen,Selumetinib,Arrhythmia
+P0404,45,Female,Depression,Thiocolchicoside,Oxycodone,Arrhythmia
+P0405,76,Female,Depression,Naronapride,Rapacuronium,Fatigue
+P0406,45,Male,Hypertension,Valnoctamide,Rapacuronium,Headache
+P0407,45,Female,Depression,Fendiline,Azilsartan medoxomil,Bleeding
+P0408,41,Male,Asthma,Ezogabine,Tramiprosate,Bleeding
+P0409,82,Male,Kidney disease,Indacaterol,Velpatasvir,Dizziness
+P0410,31,Female,Hypertension,Tadalafil,Phenylephrine,Kidney damage
+P0411,39,Female,Cancer,Escitalopram,Thonzylamine,Fatigue
+P0412,85,Female,Kidney disease,Ajmaline,Berotralstat,Dizziness
+P0413,55,Male,Arthritis,Chlormadinone acetate,Glycerol phenylbutyrate,Bleeding
+P0414,79,Female,Diabetes,Sulopenem etzadroxil,Ataluren,Nausea
+P0415,31,Female,Asthma,Phenylbutazone,Isotretinoin,Dizziness
+P0416,22,Female,Asthma,Nirogacestat,Teniposide,Bleeding
+P0417,19,Male,Depression,Lorlatinib,Pexidartinib,Kidney damage
+P0418,65,Female,Cancer,Neratinib,Dexamethasone,Kidney damage
+P0419,45,Male,Kidney disease,Sulfasalazine,Hydracarbazine,Kidney damage
+P0420,89,Male,Depression,Eplerenone,Dexpanthenol,Bleeding
+P0421,28,Male,Hypertension,Methoxsalen,Enzalutamide,Bleeding
+P0422,80,Female,Depression,Terbinafine,Nomegestrol,Vomiting
+P0423,69,Male,Depression,Acefylline,Carisbamate,Arrhythmia
+P0424,23,Male,Cancer,Capsaicin,Valinomycin,Fatigue
+P0425,34,Female,Diabetes,Magnesium carbonate,Dexniguldipine,Vomiting
+P0426,30,Female,Asthma,Pacritinib,Dolutegravir,Vomiting
+P0427,66,Male,Hypertension,Terfenadine,Flecainide,Headache
+P0428,38,Female,Liver disease,Lumacaftor,Elbasvir,Fatigue
+P0429,69,Male,Arthritis,Reserpine,Neocitrullamon,Headache
+P0430,25,Male,Depression,Hydracarbazine,Ramatroban,Fatigue
+P0431,70,Male,Depression,Prednisone,Kanamycin,Nausea
+P0432,29,Female,Heart disease,Delorazepam,Caroxazone,Bleeding
+P0433,79,Male,Heart disease,Dactinomycin,Dicoumarol,Arrhythmia
+P0434,30,Female,Asthma,Bretylium,Molsidomine,Nausea
+P0435,68,Male,Hypertension,Dantrolene,Terodiline,Dizziness
+P0436,79,Male,Cancer,Otilonium,Valsartan,Kidney damage
+P0437,61,Male,Hypertension,Letrozole,Pirfenidone,Arrhythmia
+P0438,31,Female,Depression,Clomipramine,Acetohexamide,Vomiting
+P0439,87,Female,Hypertension,Pipotiazine,Diamorphine,Fatigue
+P0440,40,Female,Asthma,Taurochenodeoxycholic acid,Isavuconazonium,Arrhythmia
+P0441,58,Male,Diabetes,Eliglustat,Ergotamine,Headache
+P0442,78,Female,Asthma,Fluvoxamine,Acebutolol,Vomiting
+P0443,70,Female,Heart disease,Hydromorphone,Furosemide,Fatigue
+P0444,22,Male,Heart disease,Cefamandole,Indomethacin,Nausea
+P0445,89,Female,Heart disease,Halofantrine,Azelastine,Headache
+P0446,75,Female,Cancer,Pantoprazole,Relebactam,Vomiting
+P0447,41,Female,Depression,Oxamniquine,Brexpiprazole,Headache
+P0448,28,Female,Hypertension,Telavancin,Tamoxifen,Vomiting
+P0449,18,Female,Depression,Iprazochrome,Mephenoxalone,Fatigue
+P0450,54,Male,Liver disease,Tetracosactide,Fosphenytoin,Headache
+P0451,49,Male,Heart disease,Chromic chloride,Albuterol,Bleeding
+P0452,67,Female,Kidney disease,Primaquine,Pirfenidone,Vomiting
+P0453,25,Female,Kidney disease,Glycerol phenylbutyrate,Zuclopenthixol,Bleeding
+P0454,32,Female,Diabetes,Lofepramine,Amitraz,Fatigue
+P0455,78,Female,Kidney disease,Isoflavone,Valganciclovir,Fatigue
+P0456,23,Female,Kidney disease,Magnesium salicylate,Dimercaprol,Headache
+P0457,88,Male,Cancer,Trimethoprim,Bevantolol,Arrhythmia
+P0458,30,Male,Liver disease,Roxithromycin,Lidoflazine,Fatigue
+P0459,79,Female,Asthma,Ivosidenib,Felodipine,Kidney damage
+P0460,25,Female,Stroke,Droxidopa,Ramiprilat,Dizziness
+P0461,88,Female,Cancer,Potassium acetate,Ketamine,Bleeding
+P0462,44,Male,Hypertension,Indomethacin,"2,4-thiazolidinedione",Arrhythmia
+P0463,67,Female,Liver disease,Pefloxacin,Netoglitazone,Nausea
+P0464,68,Male,Stroke,Clorazepic acid,Metergoline,Dizziness
+P0465,44,Male,Heart disease,Zuranolone,Baclofen,Kidney damage
+P0466,40,Female,Kidney disease,Temafloxacin,Azelastine,Arrhythmia
+P0467,71,Male,Diabetes,Pomalidomide,Acenocoumarol,Headache
+P0468,81,Male,Depression,Lumateperone,Nialamide,Bleeding
+P0469,68,Female,Diabetes,Rimiterol,Etilefrine,Nausea
+P0470,47,Male,Stroke,Revefenacin,Epanolol,Headache
+P0471,33,Male,Cancer,Gallamine triethiodide,Landiolol,Bleeding
+P0472,49,Female,Arthritis,Hydroxytyrosol,Amsacrine,Kidney damage
+P0473,80,Female,Asthma,Isavuconazole,Fluvastatin,Fatigue
+P0474,25,Female,Cancer,Trifluridine,Norgestimate,Headache
+P0475,18,Male,Depression,Estazolam,Lithium cation,Nausea
+P0476,23,Female,Heart disease,Tepoxalin,Valaciclovir,Fatigue
+P0477,72,Male,Cancer,Propiomazine,Metaxalone,Bleeding
+P0478,82,Male,Asthma,Piperacillin,Tobramycin,Nausea
+P0479,66,Female,Asthma,Tenoxicam,Sulfamethoxazole,Dizziness
+P0480,82,Male,Stroke,Fedratinib,Abiraterone,Nausea
+P0481,49,Female,Hypertension,Gadoteridol,Ceftriaxone,Fatigue
+P0482,35,Male,Liver disease,Ibopamine,Lysergic acid diethylamide,Arrhythmia
+P0483,73,Female,Liver disease,Naluzotan,Polythiazide,Arrhythmia
+P0484,52,Female,Heart disease,Bumadizone,Trandolaprilat,Vomiting
+P0485,59,Female,Hypertension,Apremilast,Pretomanid,Vomiting
+P0486,56,Male,Asthma,Dexketoprofen,Cefradine,Headache
+P0487,44,Male,Asthma,Ruxolitinib,Curcumin,Bleeding
+P0488,68,Male,Liver disease,Azelnidipine,Nylidrin,Fatigue
+P0489,80,Male,Cancer,Potassium chloride,Iodixanol,Fatigue
+P0490,33,Female,Arthritis,Paromomycin,Pitolisant,Arrhythmia
+P0491,19,Male,Asthma,Eperisone,Risperidone,Nausea
+P0492,32,Male,Arthritis,Gilteritinib,Serotonin,Vomiting
+P0493,54,Male,Liver disease,Niflumic acid,Tamsulosin,Headache
+P0494,37,Female,Arthritis,Fenbufen,Temocapril,Kidney damage
+P0495,51,Male,Diabetes,Sparsentan,Thalidomide,Dizziness
+P0496,19,Male,Depression,Flurbiprofen axetil,Metildigoxin,Nausea
+P0497,37,Female,Hypertension,Tolazamide,Clopamide,Nausea
+P0498,71,Male,Arthritis,Dactinomycin,Bosutinib,Kidney damage
+P0499,23,Male,Heart disease,Oxaprozin,Fenprostalene,Kidney damage
+P0500,29,Male,Hypertension,Pipecuronium,"Sodium phosphate, monobasic",Bleeding
+P0501,69,Female,Heart disease,Telaprevir,Omaveloxolone,Headache
+P0502,60,Female,Liver disease,Trapidil,Etoposide,Fatigue
+P0503,54,Male,Heart disease,Amitriptyline,Letermovir,Headache
+P0504,73,Female,Liver disease,Prilocaine,Daunorubicin,Fatigue
+P0505,54,Female,Stroke,Formoterol,Vinorelbine,Dizziness
+P0506,79,Male,Depression,Carbaspirin calcium,Etacrynic acid,Bleeding
+P0507,20,Male,Diabetes,Phenelzine,Sildenafil,Nausea
+P0508,44,Female,Asthma,Latanoprost,Fenoprofen,Kidney damage
+P0509,47,Female,Heart disease,Etizolam,Aniracetam,Headache
+P0510,54,Male,Diabetes,Icosapent ethyl,NS-398,Fatigue
+P0511,29,Female,Diabetes,Triamcinolone,Aminophenazone,Headache
+P0512,38,Male,Diabetes,Pentolinium,Treprostinil,Headache
+P0513,86,Male,Kidney disease,Biperiden,Rotigotine,Vomiting
+P0514,81,Male,Cancer,Ifenprodil,Buthiazide,Arrhythmia
+P0515,83,Male,Diabetes,Indalpine,Promegestone,Kidney damage
+P0516,21,Male,Hypertension,Articaine,gamma-Hydroxybutyric acid,Kidney damage
+P0517,71,Female,Liver disease,Reserpine,Ceforanide,Headache
+P0518,18,Male,Kidney disease,"7,8-Dichloro-1,2,3,4-tetrahydroisoquinoline",Lofexidine,Fatigue
+P0519,80,Male,Liver disease,Phenazopyridine,Triamterene,Nausea
+P0520,64,Male,Liver disease,Ezogabine,Ethenzamide,Fatigue
+P0521,86,Male,Stroke,Gadoteric acid,Cefmenoxime,Fatigue
+P0522,20,Male,Heart disease,Maxacalcitol,Chlorothiazide,Bleeding
+P0523,33,Female,Arthritis,Vinflunine,Mitemcinal,Dizziness
+P0524,55,Female,Stroke,"5-methoxy-N,N-dimethyltryptamine",Dimenhydrinate,Headache
+P0525,52,Male,Hypertension,Bupranolol,Benoxaprofen,Headache
+P0526,34,Female,Stroke,Eliglustat,Ritlecitinib,Bleeding
+P0527,72,Male,Arthritis,Lenabasum,Gabapentin,Fatigue
+P0528,27,Female,Heart disease,Arotinolol,Milnacipran,Nausea
+P0529,30,Female,Cancer,Ramatroban,Procaine,Nausea
+P0530,66,Female,Cancer,Dehydrocholic acid,Procyclidine,Headache
+P0531,39,Female,Arthritis,Ephedrine,Sibutramine,Vomiting
+P0532,67,Male,Liver disease,Mirtazapine,Nadolol,Headache
+P0533,75,Female,Asthma,Chlorambucil,Ifenprodil,Arrhythmia
+P0534,52,Male,Heart disease,Mirtazapine,Fentiazac,Kidney damage
+P0535,40,Male,Kidney disease,Ethadione,Fluvoxamine,Kidney damage
+P0536,75,Female,Heart disease,Dapoxetine,Saredutant,Nausea
+P0537,32,Male,Depression,Oxycodone,Quizartinib,Kidney damage
+P0538,79,Male,Heart disease,Fentanyl,Caroxazone,Vomiting
+P0539,20,Female,Arthritis,Floxuridine,Tiapride,Fatigue
+P0540,18,Female,Depression,Xipamide,Muzolimine,Nausea
+P0541,41,Male,Hypertension,Doxepin,Lisdexamfetamine,Vomiting
+P0542,38,Male,Hypertension,Remikiren,Benazepril,Dizziness
+P0543,24,Male,Liver disease,Gemifloxacin,Voxilaprevir,Bleeding
+P0544,41,Female,Stroke,9-Methylguanine,Solithromycin,Vomiting
+P0545,32,Female,Arthritis,Isoetharine,Choline magnesium trisalicylate,Headache
+P0546,38,Male,Depression,Lithium cation,Captodiame,Fatigue
+P0547,36,Male,Asthma,Methimazole,Procaine benzylpenicillin,Bleeding
+P0548,88,Male,Kidney disease,Bromotheophylline,Flunarizine,Vomiting
+P0549,39,Male,Liver disease,Adefovir,Netilmicin,Bleeding
+P0550,45,Female,Depression,Dactinomycin,Carboplatin,Arrhythmia
+P0551,76,Male,Arthritis,Magnesium,Monomethyl fumarate,Dizziness
+P0552,28,Female,Cancer,Guanfacine,Flunixin,Vomiting
+P0553,38,Female,Diabetes,Valproic acid,Lovastatin,Headache
+P0554,63,Male,Depression,Nylidrin,Salicylic acid,Arrhythmia
+P0555,79,Female,Diabetes,Palonosetron,Triclofos,Bleeding
+P0556,64,Male,Stroke,Alogliptin,Ethambutol,Dizziness
+P0557,79,Female,Heart disease,Urethane,Chlorprothixene,Kidney damage
+P0558,23,Female,Diabetes,Nabumetone,Daptomycin,Dizziness
+P0559,18,Male,Kidney disease,Valbenazine,Tiapride,Fatigue
+P0560,28,Female,Arthritis,Benidipine,Metoclopramide,Nausea
+P0561,24,Female,Arthritis,Dihydroergocristine,Macitentan,Bleeding
+P0562,39,Female,Liver disease,Clopidogrel,Dosulepin,Kidney damage
+P0563,22,Male,Diabetes,Capsaicin,Cisplatin,Bleeding
+P0564,71,Female,Heart disease,Mebanazine,Endralazine,Dizziness
+P0565,68,Female,Kidney disease,Sulindac,Anisodamine,Kidney damage
+P0566,87,Male,Hypertension,Eliglustat,Alogliptin,Headache
+P0567,64,Female,Cancer,Streptozocin,Vorinostat,Arrhythmia
+P0568,24,Male,Asthma,Omarigliptin,Sulfatolamide,Dizziness
+P0569,64,Male,Heart disease,Hexafluronium,Beclamide,Dizziness
+P0570,23,Female,Hypertension,Pracinostat,Ibutilide,Arrhythmia
+P0571,72,Female,Asthma,Oxalic Acid,Oxytetracycline,Kidney damage
+P0572,58,Male,Cancer,Meprednisone,Fluorouracil,Vomiting
+P0573,75,Male,Arthritis,Oxymorphone,Mecamylamine,Kidney damage
+P0574,76,Male,Diabetes,Propyphenazone,Unoprostone,Arrhythmia
+P0575,33,Female,Kidney disease,Yohimbine,Repinotan,Headache
+P0576,55,Male,Kidney disease,Floxuridine,(R)-warfarin,Headache
+P0577,66,Male,Liver disease,Niguldipine,Pramipexole,Headache
+P0578,65,Female,Diabetes,Phenoxybenzamine,Loxoprofen,Nausea
+P0579,24,Male,Asthma,Gallamine,Fluanisone,Nausea
+P0580,21,Male,Arthritis,Captopril,Carbidopa,Dizziness
+P0581,31,Male,Cancer,Taxifolin,Neamine,Arrhythmia
+P0582,87,Male,Stroke,Brimonidine,Levosulpiride,Headache
+P0583,44,Male,Arthritis,Tesmilifene,Parecoxib,Fatigue
+P0584,23,Female,Heart disease,Gosogliptin,Prednisolone,Bleeding
+P0585,39,Female,Arthritis,Amoxapine,Omapatrilat,Dizziness
+P0586,34,Male,Asthma,Cloranolol,Erlotinib,Vomiting
+P0587,37,Male,Stroke,Indole-3-carbinol,Propoxycaine,Nausea
+P0588,22,Female,Stroke,Oxazepam,Torasemide,Headache
+P0589,63,Male,Arthritis,Oxazepam acetate,Eplivanserin,Vomiting
+P0590,28,Female,Kidney disease,Linsidomine,Celecoxib,Headache
+P0591,67,Female,Hypertension,Clofenamide,Chromic citrate,Headache
+P0592,18,Male,Arthritis,Thiotepa,Olanzapine,Kidney damage
+P0593,43,Female,Heart disease,Oxaprozin,Piclozotan,Dizziness
+P0594,70,Male,Hypertension,Haloperidol,Goserelin,Dizziness
+P0595,67,Male,Cancer,Tiapride,Ethyl loflazepate,Kidney damage
+P0596,87,Female,Heart disease,Lomerizine,Acebutolol,Fatigue
+P0597,67,Female,Stroke,Balsalazide,Selenious acid,Kidney damage
+P0598,48,Female,Arthritis,Urapidil,Dopexamine,Bleeding
+P0599,22,Male,Liver disease,Apronalide,Dotarizine,Arrhythmia
+P0600,37,Female,Diabetes,Sirolimus,Allopurinol,Headache
+P0601,88,Male,Arthritis,Tiagabine,Vinbarbital,Fatigue
+P0602,80,Female,Cancer,Disopyramide,Homatropine methylbromide,Bleeding
+P0603,18,Female,Depression,Everolimus,Paroxetine,Vomiting
+P0604,37,Female,Asthma,Cefotetan,Cefazedone,Headache
+P0605,81,Female,Stroke,Cefadroxil,Iobenguane sulfate I-123,Bleeding
+P0606,30,Female,Cancer,Flumequine,Magnesium levulinate,Bleeding
+P0607,85,Female,Kidney disease,Indalpine,Renzapride,Headache
+P0608,62,Female,Liver disease,Batefenterol,Butalbital,Bleeding
+P0609,27,Male,Liver disease,Diltiazem,Cisatracurium,Nausea
+P0610,58,Male,Heart disease,Prenalterol,Oxybutynin,Headache
+P0611,67,Female,Kidney disease,Quinidine,Magnesium acetate tetrahydrate,Nausea
+P0612,56,Male,Hypertension,Neocitrullamon,Thioproperazine,Arrhythmia
+P0613,19,Male,Depression,Etofenamate,Alaproclate,Fatigue
+P0614,30,Female,Cancer,Trimetrexate,Indomethacin,Headache
+P0615,89,Male,Asthma,Cadralazine,"7,8-Dichloro-1,2,3,4-tetrahydroisoquinoline",Kidney damage
+P0616,50,Female,Heart disease,Pinazepam,Acetophenazine,Dizziness
+P0617,45,Male,Stroke,Dactinomycin,Lasmiditan,Dizziness
+P0618,84,Male,Liver disease,Mephenoxalone,Oxitriptan,Nausea
+P0619,55,Female,Diabetes,Meprobamate,Naphazoline,Bleeding
+P0620,75,Female,Stroke,Hexobarbital,Bromotheophylline,Bleeding
+P0621,78,Female,Depression,Chlorpromazine,Bupropion,Fatigue
+P0622,44,Female,Liver disease,Macitentan,Tolazamide,Kidney damage
+P0623,20,Male,Arthritis,Eltrombopag,Aminophenazone,Nausea
+P0624,33,Male,Arthritis,Dopamine,Baricitinib,Nausea
+P0625,44,Female,Stroke,Nilotinib,Lamotrigine,Headache
+P0626,54,Male,Depression,Agmatine,Azilsartan medoxomil,Vomiting
+P0627,37,Female,Liver disease,Rolipram,Clomipramine,Bleeding
+P0628,21,Male,Diabetes,Dexchlorpheniramine,Dihydrocodeine,Nausea
+P0629,68,Female,Kidney disease,Carvedilol,Carmustine,Arrhythmia
+P0630,79,Male,Cancer,Lomerizine,Troleandomycin,Fatigue
+P0631,30,Female,Liver disease,Quinine,Penbutolol,Vomiting
+P0632,63,Male,Kidney disease,Etoricoxib,Selpercatinib,Headache
+P0633,60,Male,Cancer,Tertatolol,Captopril,Arrhythmia
+P0634,88,Female,Hypertension,Prednisolone,Estradiol valerate,Nausea
+P0635,40,Male,Asthma,Fentiazac,Astaxanthin,Kidney damage
+P0636,69,Female,Stroke,Indalpine,Phenindione,Kidney damage
+P0637,44,Male,Liver disease,Cyclopenthiazide,Vildagliptin,Headache
+P0638,75,Female,Kidney disease,Rabeprazole,Indinavir,Headache
+P0639,42,Male,Kidney disease,Magnesium sulfate,Demegestone,Bleeding
+P0640,28,Male,Diabetes,Topiramate,Cisapride,Vomiting
+P0641,46,Female,Diabetes,Barnidipine,Temocapril,Fatigue
+P0642,88,Male,Liver disease,Lopinavir,Futibatinib,Kidney damage
+P0643,34,Female,Stroke,Paliperidone,Cabergoline,Nausea
+P0644,87,Female,Diabetes,Lasmiditan,Benidipine,Kidney damage
+P0645,82,Female,Liver disease,Banoxantrone,Apomorphine,Vomiting
+P0646,78,Female,Liver disease,Albuterol,Revumenib,Bleeding
+P0647,47,Female,Kidney disease,Enzalutamide,Amitriptyline,Headache
+P0648,56,Female,Hypertension,Testosterone propionate,Iopromide,Arrhythmia
+P0649,60,Female,Liver disease,Synephrine,Mepindolol,Headache
+P0650,79,Male,Heart disease,Ibopamine,Pseudoephedrine,Headache
+P0651,25,Male,Cancer,Cefroxadine,Nimesulide,Arrhythmia
+P0652,80,Female,Hypertension,Reboxetine,Allobarbital,Vomiting
+P0653,69,Male,Depression,Triamcinolone,Dapagliflozin,Arrhythmia
+P0654,40,Male,Heart disease,Acotiamide,Dexamethasone isonicotinate,Fatigue
+P0655,80,Female,Hypertension,Nintedanib,Telithromycin,Dizziness
+P0656,69,Male,Heart disease,Remikiren,Cariprazine,Nausea
+P0657,43,Female,Heart disease,Testosterone propionate,Rolofylline,Nausea
+P0658,67,Female,Kidney disease,Progesterone,Clonazepam,Headache
+P0659,35,Male,Depression,Raloxifene,Abemaciclib,Headache
+P0660,88,Male,Diabetes,Talbutal,Cyclizine,Headache
+P0661,24,Female,Heart disease,Alphaprodine,Hydrocodone,Fatigue
+P0662,79,Female,Heart disease,Cyclophosphamide,Oxaliplatin,Arrhythmia
+P0663,65,Male,Arthritis,Balaglitazone,Estrone sulfate,Headache
+P0664,83,Female,Cancer,Benazepril,Tretinoin,Bleeding
+P0665,83,Male,Asthma,Pipamperone,Rotigotine,Dizziness
+P0666,88,Female,Hypertension,Armodafinil,Chlorpheniramine,Dizziness
+P0667,85,Female,Heart disease,Dexamethasone isonicotinate,Norelgestromin,Kidney damage
+P0668,84,Female,Liver disease,Fenoterol,Candoxatril,Kidney damage
+P0669,76,Male,Asthma,Cephaloglycin,Gadobenic acid,Nausea
+P0670,21,Female,Arthritis,Dutasteride,Indacaterol,Kidney damage
+P0671,30,Female,Arthritis,Epoprostenol,Norethynodrel,Nausea
+P0672,31,Female,Cancer,Benzyl alcohol,Brimonidine,Bleeding
+P0673,33,Female,Stroke,Garenoxacin,Foscarnet,Dizziness
+P0674,68,Female,Cancer,Fosnetupitant,Toremifene,Headache
+P0675,60,Male,Depression,Pramocaine,Cefixime,Fatigue
+P0676,64,Male,Stroke,Phentolamine,Aprocitentan,Kidney damage
+P0677,77,Female,Liver disease,Promazine,Rilpivirine,Dizziness
+P0678,54,Female,Depression,Seproxetine,Tedizolid phosphate,Dizziness
+P0679,41,Male,Asthma,Levomenthol,Gadobenic acid,Headache
+P0680,77,Male,Kidney disease,Clarithromycin,Chlorpromazine,Vomiting
+P0681,26,Female,Kidney disease,Iproniazid,Cenobamate,Fatigue
+P0682,84,Female,Kidney disease,Tenidap,Fluocortolone caproate,Bleeding
+P0683,29,Female,Diabetes,Apalutamide,Thiamylal,Dizziness
+P0684,56,Male,Kidney disease,Linsidomine,Pipamperone,Dizziness
+P0685,22,Female,Arthritis,Nortriptyline,Flurazepam,Vomiting
+P0686,82,Male,Stroke,Lapatinib,Cinnarizine,Vomiting
+P0687,46,Male,Diabetes,9-Methylguanine,Imipramine,Bleeding
+P0688,87,Male,Kidney disease,Lithium citrate,Azaperone,Headache
+P0689,73,Female,Hypertension,Linagliptin,Bumetanide,Fatigue
+P0690,22,Male,Diabetes,Hydrocortisone acetate,Pirprofen,Dizziness
+P0691,19,Male,Liver disease,Anagrelide,Phendimetrazine,Headache
+P0692,87,Female,Arthritis,Gitoformate,Pinaverium,Fatigue
+P0693,53,Male,Cancer,Nabilone,Sacubitril,Headache
+P0694,86,Male,Liver disease,Promethazine,Clenbuterol,Dizziness
+P0695,20,Female,Kidney disease,Doxapram,Aripiprazole lauroxil,Bleeding
+P0696,55,Female,Diabetes,Trospium,Venlafaxine,Dizziness
+P0697,86,Female,Depression,Carprofen,Gallopamil,Kidney damage
+P0698,49,Male,Hypertension,Nitric Oxide,Canrenoic acid,Dizziness
+P0699,43,Male,Diabetes,Medetomidine,Mephenoxalone,Vomiting
+P0700,59,Female,Asthma,Isoprenaline,Lofexidine,Arrhythmia
+P0701,48,Male,Hypertension,Bretylium,Ajmaline,Kidney damage
+P0702,70,Male,Asthma,Sulfamethizole,Donepezil,Kidney damage
+P0703,71,Female,Arthritis,Raclopride,Isoflurane,Headache
+P0704,32,Female,Heart disease,Flupentixol,Otilonium,Bleeding
+P0705,48,Male,Cancer,Bucindolol,Methadone,Dizziness
+P0706,41,Female,Liver disease,Phenmetrazine,WIN 55212-2,Dizziness
+P0707,75,Female,Cancer,Fluprednidene,Verapamil,Arrhythmia
+P0708,20,Male,Depression,Clobazam,Fenfluramine,Kidney damage
+P0709,56,Female,Diabetes,Darodipine,Calcium pangamate,Bleeding
+P0710,77,Male,Arthritis,Levodopa,Iprazochrome,Vomiting
+P0711,69,Female,Cancer,Suxibuzone,Rufloxacin,Vomiting
+P0712,49,Male,Liver disease,Nirogacestat,Ritonavir,Kidney damage
+P0713,65,Female,Asthma,Voriconazole,Norfloxacin,Vomiting
+P0714,69,Male,Asthma,Mibefradil,Morniflumate,Fatigue
+P0715,39,Male,Heart disease,(R)-warfarin,Sotorasib,Nausea
+P0716,24,Female,Asthma,Chlorcyclizine,Revumenib,Dizziness
+P0717,81,Male,Asthma,Elocalcitol,Prednisolone,Kidney damage
+P0718,29,Male,Stroke,Nafamostat,Azithromycin,Bleeding
+P0719,64,Female,Hypertension,Nilotinib,Ridaforolimus,Dizziness
+P0720,21,Female,Arthritis,Endralazine,Guanabenz,Bleeding
+P0721,41,Female,Asthma,Isradipine,(R)-warfarin,Dizziness
+P0722,25,Male,Liver disease,Diphenidol,Pancuronium,Kidney damage
+P0723,18,Female,Cancer,Albuterol,Finasteride,Kidney damage
+P0724,80,Male,Depression,Protriptyline,Pimavanserin,Kidney damage
+P0725,40,Female,Hypertension,Telmisartan,Flibanserin,Nausea
+P0726,73,Male,Cancer,Imatinib,Olodaterol,Dizziness
+P0727,30,Female,Cancer,Quinaprilat,Oxyfedrine,Vomiting
+P0728,41,Male,Stroke,Toloxatone,Arformoterol,Arrhythmia
+P0729,45,Female,Asthma,Methylene blue,Pentetic acid,Dizziness
+P0730,42,Female,Hypertension,Zuranolone,Entacapone,Bleeding
+P0731,81,Female,Depression,Tridihexethyl,Imipramine,Headache
+P0732,29,Male,Hypertension,Dichloralphenazone,Bromisoval,Dizziness
+P0733,73,Female,Diabetes,Indoramin,Ropivacaine,Dizziness
+P0734,32,Male,Kidney disease,Prazosin,Hexobarbital,Bleeding
+P0735,51,Male,Depression,Fluocinonide,Bortezomib,Headache
+P0736,67,Female,Hypertension,Peficitinib,Tepoxalin,Kidney damage
+P0737,40,Male,Heart disease,Atorvastatin,Dronabinol,Arrhythmia
+P0738,50,Male,Heart disease,Fesoterodine,Bismuth subgallate,Vomiting
+P0739,18,Male,Liver disease,Perphenazine enanthate,Butobarbital,Headache
+P0740,24,Male,Asthma,Azatadine,Pitolisant,Fatigue
+P0741,56,Male,Depression,Fenozolone,Naluzotan,Arrhythmia
+P0742,86,Female,Kidney disease,Tolonidine,Dobutamine,Nausea
+P0743,44,Male,Liver disease,Cyclopenthiazide,Chlorothiazide,Vomiting
+P0744,36,Female,Depression,Nelarabine,Diroximel fumarate,Nausea
+P0745,52,Male,Asthma,Methotrimeprazine,Hexobarbital,Fatigue
+P0746,71,Female,Cancer,Dordaviprone,Pilsicainide,Kidney damage
+P0747,40,Female,Diabetes,Flurazepam,Choline C 11,Bleeding
+P0748,54,Female,Stroke,Nefazodone,Thiopental,Dizziness
+P0749,27,Female,Diabetes,Vamorolone,Norgestrienone,Fatigue
+P0750,20,Female,Liver disease,Troleandomycin,Vorapaxar,Fatigue
+P0751,61,Female,Diabetes,Cilazapril,Pinacidil,Vomiting
+P0752,84,Female,Diabetes,Nomegestrol acetate,Norgestimate,Vomiting
+P0753,86,Male,Heart disease,Methadone,Doxefazepam,Kidney damage
+P0754,49,Female,Diabetes,Fenofibric acid,Magnesium carbonate,Nausea
+P0755,24,Female,Liver disease,Norethisterone,Tamoxifen,Fatigue
+P0756,45,Female,Arthritis,Etilefrine,Morniflumate,Kidney damage
+P0757,18,Male,Stroke,Etoricoxib,Nedocromil,Nausea
+P0758,89,Male,Stroke,Pentaerythritol tetranitrate,Potassium chloride,Dizziness
+P0759,51,Male,Asthma,Lornoxicam,Tepotinib,Dizziness
+P0760,36,Female,Stroke,9-Methylguanine,Triazolam,Kidney damage
+P0761,27,Female,Stroke,Plumbagin,Fluorometholone,Vomiting
+P0762,41,Female,Hypertension,Amphetamine,Reproterol,Vomiting
+P0763,66,Female,Kidney disease,Etonogestrel,Ioflupane I-123,Dizziness
+P0764,74,Female,Liver disease,Azosemide,Menthyl salicylate,Dizziness
+P0765,76,Male,Diabetes,Felodipine,Captopril,Bleeding
+P0766,33,Male,Hypertension,Phenothiazine,Thiamylal,Vomiting
+P0767,84,Female,Stroke,Fosaprepitant,Primidone,Kidney damage
+P0768,39,Male,Hypertension,Carbutamide,Metronidazole,Bleeding
+P0769,74,Male,Depression,Dihydralazine,Nadolol,Bleeding
+P0770,62,Male,Asthma,Estradiol cypionate,Topiroxostat,Nausea
+P0771,56,Female,Stroke,Nalidixic acid,Omarigliptin,Vomiting
+P0772,26,Female,Heart disease,Desflurane,Synephrine,Nausea
+P0773,80,Male,Asthma,Orbifloxacin,Lumiracoxib,Nausea
+P0774,33,Male,Liver disease,Nilutamide,Abacavir,Fatigue
+P0775,84,Male,Kidney disease,Saralasin,Formoterol,Fatigue
+P0776,41,Male,Cancer,Barnidipine,Temsirolimus,Nausea
+P0777,55,Female,Liver disease,Lortalamine,Oxitriptan,Headache
+P0778,43,Female,Asthma,Sulindac,Oxabolone cipionate,Headache
+P0779,31,Female,Hypertension,Encainide,Zonisamide,Fatigue
+P0780,51,Female,Hypertension,Mequitazine,Lomitapide,Bleeding
+P0781,61,Female,Stroke,Phenylbutazone,Trandolaprilat,Arrhythmia
+P0782,87,Male,Depression,Valproic acid,Levoleucovorin,Arrhythmia
+P0783,72,Female,Stroke,Hydroxyzine,Tiapride,Bleeding
+P0784,49,Female,Diabetes,Ezogabine,Barbital,Headache
+P0785,69,Male,Kidney disease,Cyclosporine,Arsenic trioxide,Kidney damage
+P0786,41,Male,Liver disease,Potassium,Dimercaprol,Arrhythmia
+P0787,68,Female,Hypertension,Capecitabine,Clofarabine,Headache
+P0788,18,Male,Stroke,Carvedilol,Chlorthalidone,Dizziness
+P0789,29,Male,Hypertension,Olsalazine,Zoledronic acid,Headache
+P0790,52,Male,Arthritis,Tienilic acid,Technetium Tc-99m oxidronate,Dizziness
+P0791,59,Male,Heart disease,Tixocortol,Coumaphos,Kidney damage
+P0792,18,Female,Kidney disease,Mannitol,Fondaparinux,Arrhythmia
+P0793,19,Female,Hypertension,Clopidogrel,Levacetylmethadol,Fatigue
+P0794,25,Female,Depression,Sulbenicillin,Ulipristal,Nausea
+P0795,65,Male,Stroke,Tetracaine,Toremifene,Vomiting
+P0796,70,Female,Depression,Pemetrexed,Ketoconazole,Dizziness
+P0797,22,Female,Stroke,Sotorasib,Fosphenytoin,Fatigue
+P0798,51,Female,Hypertension,Taurocholic acid,Prednisolone phosphate,Nausea
+P0799,56,Female,Hypertension,Ergotamine,Benorilate,Bleeding
+P0800,45,Male,Asthma,Azilsartan medoxomil,Suxibuzone,Fatigue
+P0801,40,Female,Stroke,Loteprednol,Disopyramide,Headache
+P0802,57,Male,Arthritis,Thioridazine,Levocetirizine,Headache
+P0803,42,Male,Kidney disease,Toloxatone,Tetrahydropalmatine,Dizziness
+P0804,65,Male,Heart disease,Amodiaquine,Ximelagatran,Nausea
+P0805,30,Male,Liver disease,Tamsulosin,Gosogliptin,Arrhythmia
+P0806,75,Male,Asthma,Leflunomide,Venlafaxine,Arrhythmia
+P0807,21,Male,Liver disease,Phenylpropanolamine,Taranabant,Kidney damage
+P0808,24,Female,Stroke,Iohexol,Rufinamide,Headache
+P0809,78,Female,Cancer,Trazodone,Dexverapamil,Nausea
+P0810,51,Female,Diabetes,Cefapirin,Estradiol,Dizziness
+P0811,58,Male,Heart disease,Temazepam,Lurasidone,Dizziness
+P0812,34,Female,Cancer,Arotinolol,Phenserine,Arrhythmia
+P0813,26,Male,Diabetes,Gadofosveset trisodium,Azacitidine,Nausea
+P0814,43,Male,Cancer,"1,2-Benzodiazepine",Moperone,Fatigue
+P0815,65,Female,Liver disease,Methsuximide,Taletrectinib,Kidney damage
+P0816,45,Female,Arthritis,Baclofen,Trimethoprim,Vomiting
+P0817,58,Male,Depression,Indiplon,Hydromorphone,Bleeding
+P0818,39,Male,Depression,Esmolol,Methylergometrine,Dizziness
+P0819,32,Female,Heart disease,Mexiletine,Tacrine,Dizziness
+P0820,19,Female,Arthritis,Ibuprofen,Defactinib,Vomiting
+P0821,40,Female,Liver disease,Sultopride,Bismuth subcarbonate,Nausea
+P0822,85,Female,Liver disease,Nimodipine,Rilpivirine,Fatigue
+P0823,65,Female,Asthma,Dronedarone,Zaleplon,Nausea
+P0824,52,Male,Arthritis,Sevoflurane,Oxaflozane,Arrhythmia
+P0825,65,Male,Heart disease,Droperidol,Mephedrone,Kidney damage
+P0826,26,Male,Arthritis,Triflupromazine,Bisoprolol,Kidney damage
+P0827,42,Female,Liver disease,Albendazole,Metyrapone,Nausea
+P0828,42,Male,Stroke,Isavuconazonium,Macimorelin,Kidney damage
+P0829,67,Female,Cancer,Cefsulodin,Clonazepam,Arrhythmia
+P0830,88,Female,Liver disease,Sultamicillin,Estrone sulfate,Bleeding
+P0831,83,Female,Diabetes,Bretylium,Sitafloxacin,Kidney damage
+P0832,70,Female,Stroke,Choline magnesium trisalicylate,Methyldopa,Nausea
+P0833,70,Female,Liver disease,Ketoprofen,Tianeptine,Dizziness
+P0834,55,Male,Asthma,Triazolam,Alcuronium,Bleeding
+P0835,76,Female,Cancer,Gentamicin,Fosinopril,Dizziness
+P0836,39,Female,Diabetes,Profenamine,Abediterol,Kidney damage
+P0837,28,Male,Hypertension,Ramosetron,Metocurine,Headache
+P0838,58,Female,Depression,Flurbiprofen axetil,Clocortolone acetate,Bleeding
+P0839,87,Female,Kidney disease,Dimetindene,Doxacurium,Nausea
+P0840,20,Male,Liver disease,Terfenadine,Estradiol,Vomiting
+P0841,20,Male,Diabetes,Telavancin,Ledipasvir,Kidney damage
+P0842,25,Male,Arthritis,Norethisterone,Etravirine,Arrhythmia
+P0843,87,Male,Cancer,Penthienate,Diphemanil,Arrhythmia
+P0844,67,Female,Stroke,Capmatinib,Hydrocortisone acetate,Headache
+P0845,64,Male,Depression,Metixene,Dimetacrine,Arrhythmia
+P0846,50,Female,Diabetes,Benzylthiouracil,Chlorpropamide,Bleeding
+P0847,77,Female,Liver disease,"2,4-thiazolidinedione",Procaine,Headache
+P0848,72,Male,Kidney disease,Ethenzamide,Landiolol,Fatigue
+P0849,45,Male,Liver disease,Pirlindole,Ceftezole,Vomiting
+P0850,32,Male,Arthritis,Benzocaine,Nitroprusside,Headache
+P0851,37,Female,Diabetes,Risperidone,Psilocybin,Dizziness
+P0852,81,Male,Diabetes,Mefruside,Propiverine,Headache
+P0853,24,Female,Stroke,Bendroflumethiazide,Dicyclomine,Headache
+P0854,57,Male,Cancer,Dutasteride,Procaterol,Dizziness
+P0855,27,Male,Diabetes,Dantrolene,Celecoxib,Fatigue
+P0856,84,Male,Kidney disease,Potassium bicarbonate,Arotinolol,Headache
+P0857,23,Male,Liver disease,Terazosin,Terodiline,Arrhythmia
+P0858,51,Male,Cancer,Bendazac,Difenpiramide,Fatigue
+P0859,67,Male,Depression,Foscarnet,Hyoscyamine,Fatigue
+P0860,27,Male,Cancer,Isosorbide mononitrate,Tegafur,Bleeding
+P0861,53,Female,Arthritis,Gefitinib,Lapatinib,Headache
+P0862,52,Male,Diabetes,Escitalopram,Trimebutine,Headache
+P0863,43,Male,Heart disease,Bendamustine,Amitriptyline,Nausea
+P0864,76,Male,Cancer,Perhexiline,Carbutamide,Headache
+P0865,76,Male,Depression,Nitrendipine,Lenvatinib,Headache
+P0866,75,Female,Cancer,Tiapride,Acetylglycinamide chloral hydrate,Arrhythmia
+P0867,56,Male,Stroke,Valbenazine,Fluvastatin,Kidney damage
+P0868,26,Female,Stroke,Simeprevir,Pantoprazole,Bleeding
+P0869,60,Male,Liver disease,"Carfentanil, C-11",Triclofos,Fatigue
+P0870,36,Male,Asthma,MMDA,Methdilazine,Arrhythmia
+P0871,45,Male,Stroke,Gemifloxacin,Levofloxacin,Arrhythmia
+P0872,77,Female,Heart disease,Amsacrine,Cabazitaxel,Vomiting
+P0873,39,Female,Asthma,Metharbital,Clopenthixol,Dizziness
+P0874,22,Male,Cancer,Abrocitinib,Talazoparib,Nausea
+P0875,20,Male,Asthma,Anagrelide,Flumequine,Fatigue
+P0876,44,Female,Hypertension,Metocurine iodide,Oxaprotiline,Arrhythmia
+P0877,18,Male,Cancer,Rosuvastatin,Boceprevir,Bleeding
+P0878,35,Male,Liver disease,Fluprednidene,Acetylsalicylic acid,Bleeding
+P0879,80,Male,Depression,Rosuvastatin,Ambrisentan,Kidney damage
+P0880,45,Male,Asthma,Lisdexamfetamine,Dihexyverine,Vomiting
+P0881,53,Male,Asthma,Potassium citrate,Verapamil,Headache
+P0882,31,Female,Arthritis,Choline salicylate,Apalutamide,Arrhythmia
+P0883,42,Male,Arthritis,Zaleplon,Urethane,Kidney damage
+P0884,68,Female,Kidney disease,Acetyldigitoxin,Cortisone,Headache
+P0885,44,Female,Arthritis,Potassium bitartrate,Trimethaphan,Nausea
+P0886,48,Female,Asthma,Fentanyl,Sodium fluoride,Arrhythmia
+P0887,45,Male,Diabetes,4-hydroxycoumarin,Methylprednisolone,Bleeding
+P0888,84,Male,Heart disease,Arbutamine,Thonzylamine,Vomiting
+P0889,24,Male,Stroke,Phenylephrine,Lurasidone,Vomiting
+P0890,63,Female,Liver disease,Loxapine,Crizotinib,Bleeding
+P0891,61,Male,Hypertension,Benmoxin,Clobazam,Dizziness
+P0892,52,Female,Liver disease,Nafamostat,Dersalazine,Kidney damage
+P0893,26,Female,Heart disease,Methimazole,Chromic nitrate,Kidney damage
+P0894,23,Male,Stroke,Dimethyl sulfoxide,Fosfomycin,Bleeding
+P0895,50,Male,Hypertension,Methoserpidine,Nimesulide,Bleeding
+P0896,27,Male,Cancer,Quetiapine,Florbetapir F-18,Bleeding
+P0897,63,Male,Liver disease,Chlorpheniramine,Butorphanol,Vomiting
+P0898,63,Male,Kidney disease,Clotiazepam,Dexmedetomidine,Headache
+P0899,82,Male,Cancer,Amobarbital,Ribociclib,Bleeding
+P0900,63,Male,Cancer,Fusidic acid,Deferasirox,Headache
+P0901,54,Male,Stroke,Methsuximide,6-O-benzylguanine,Nausea
+P0902,79,Male,Depression,Rilpivirine,Cinnarizine,Headache
+P0903,70,Female,Arthritis,Simeprevir,Etrasimod,Nausea
+P0904,33,Male,Asthma,Dihydrostreptomycin,Dexrazoxane,Vomiting
+P0905,21,Female,Diabetes,Lorpiprazole,Bacitracin,Headache
+P0906,33,Female,Kidney disease,Dexmethylphenidate,Ziprasidone,Fatigue
+P0907,69,Male,Arthritis,Gemigliptin,Citalopram,Fatigue
+P0908,30,Female,Heart disease,Chlorpropamide,Gabapentin enacarbil,Arrhythmia
+P0909,73,Female,Arthritis,Drospirenone,Lomerizine,Fatigue
+P0910,80,Male,Liver disease,Darifenacin,Clobazam,Headache
+P0911,79,Female,Liver disease,Cafedrine,Hypoxanthine,Bleeding
+P0912,28,Female,Cancer,Medetomidine,Felcisetrag,Fatigue
+P0913,40,Male,Stroke,Florbetapir F-18,Gimeracil,Arrhythmia
+P0914,84,Male,Hypertension,Magnesium trisilicate,Procainamide,Fatigue
+P0915,69,Male,Cancer,Etifoxine,Butalbital,Nausea
+P0916,50,Female,Liver disease,Metergoline,Oxaprotiline,Dizziness
+P0917,44,Female,Depression,Vamorolone,Ulipristal,Nausea
+P0918,47,Male,Hypertension,Melperone,Piperacillin,Nausea
+P0919,24,Female,Cancer,Nomegestrol acetate,Levoketoconazole,Bleeding
+P0920,31,Male,Kidney disease,Terfenadine,Epanolol,Kidney damage
+P0921,68,Male,Kidney disease,Imidazole salicylate,Abacavir,Dizziness
+P0922,76,Male,Cancer,Promazine,Dihydroergotamine,Headache
+P0923,81,Female,Diabetes,Naratriptan,Guanfacine,Dizziness
+P0924,26,Female,Diabetes,Droxicam,Technetium Tc-99m oxidronate,Fatigue
+P0925,27,Male,Arthritis,Talinolol,Guanabenz,Fatigue
+P0926,55,Female,Stroke,Clorazepic acid,Tetracycline,Kidney damage
+P0927,69,Male,Diabetes,Amitriptylinoxide,Finasteride,Kidney damage
+P0928,34,Female,Kidney disease,Labetalol,Dihydralazine,Arrhythmia
+P0929,58,Female,Asthma,Pretomanid,Dasatinib,Bleeding
+P0930,22,Male,Hypertension,Naftopidil,Teniposide,Arrhythmia
+P0931,74,Male,Arthritis,Carisbamate,Capsaicin,Kidney damage
+P0932,51,Male,Liver disease,Saxagliptin,Fentanyl,Vomiting
+P0933,38,Male,Arthritis,Promethazine,Heptabarbital,Nausea
+P0934,45,Male,Depression,Rifapentine,Vincristine,Headache
+P0935,29,Female,Liver disease,Prednisolone phosphate,Curcumin,Headache
+P0936,28,Female,Hypertension,Hydralazine,Permethrin,Headache
+P0937,22,Female,Hypertension,Hydrocortisone acetate,Niflumic acid,Vomiting
+P0938,61,Female,Arthritis,Amitriptyline,Hexobarbital,Bleeding
+P0939,19,Male,Stroke,Balaglitazone,Mephenytoin,Nausea
+P0940,60,Female,Hypertension,Selinexor,Cenobamate,Nausea
+P0941,72,Female,Diabetes,Tegoprazan,Fosamprenavir,Dizziness
+P0942,24,Female,Arthritis,Floctafenine,Phentermine,Vomiting
+P0943,62,Female,Kidney disease,Bufotenine,Methadyl acetate,Headache
+P0944,34,Male,Stroke,Doxepin,Bufotenine,Headache
+P0945,63,Female,Diabetes,Choline C 11,Triamterene,Dizziness
+P0946,24,Male,Heart disease,Gatifloxacin,Tacrolimus,Headache
+P0947,45,Female,Asthma,Cenobamate,Indacaterol,Bleeding
+P0948,35,Male,Stroke,Adrafinil,Spironolactone,Nausea
+P0949,69,Female,Hypertension,Fludiazepam,Gaboxadol,Arrhythmia
+P0950,69,Female,Kidney disease,Clofazimine,Dihydroergocornine,Arrhythmia
+P0951,40,Male,Stroke,Chloroquine,Clofibride,Arrhythmia
+P0952,44,Female,Diabetes,Dihydralazine,Temocapril,Arrhythmia
+P0953,34,Male,Hypertension,Vorapaxar,Vinflunine,Arrhythmia
+P0954,72,Female,Hypertension,Aztreonam,Ledipasvir,Bleeding
+P0955,24,Female,Diabetes,Zileuton,Isradipine,Nausea
+P0956,33,Male,Kidney disease,Palbociclib,Cyclopenthiazide,Headache
+P0957,20,Male,Depression,Butylscopolamine,Pancuronium,Vomiting
+P0958,43,Male,Heart disease,Diphenhydramine,Capreomycin,Bleeding
+P0959,55,Male,Hypertension,Midodrine,Buflomedil,Headache
+P0960,40,Male,Liver disease,Pentostatin,Lubiprostone,Headache
+P0961,61,Male,Diabetes,Indobufen,Disopyramide,Vomiting
+P0962,37,Male,Kidney disease,Doxorubicin,Sitaxentan,Kidney damage
+P0963,85,Female,Asthma,Tucidinostat,Encorafenib,Kidney damage
+P0964,31,Female,Cancer,Lumefantrine,Primaquine,Headache
+P0965,34,Female,Diabetes,Mazaticol,Guanfacine,Vomiting
+P0966,45,Female,Liver disease,Trospium,Pirfenidone,Bleeding
+P0967,30,Male,Hypertension,Indisulam,Tadalafil,Headache
+P0968,19,Male,Diabetes,Perospirone,Dacomitinib,Dizziness
+P0969,89,Female,Heart disease,Telaprevir,WIN 55212-2,Arrhythmia
+P0970,83,Female,Arthritis,Temgicoluril,Brexpiprazole,Dizziness
+P0971,80,Female,Hypertension,Ditiocarb,Gemfibrozil,Bleeding
+P0972,85,Male,Depression,Carbinoxamine,Eribulin,Vomiting
+P0973,89,Female,Liver disease,Ciprofloxacin,Delafloxacin,Dizziness
+P0974,44,Male,Liver disease,Ponatinib,Tegafur,Nausea
+P0975,21,Male,Liver disease,Candoxatril,Rescinnamine,Arrhythmia
+P0976,23,Male,Kidney disease,Capmatinib,Sotorasib,Kidney damage
+P0977,24,Female,Liver disease,Dexketoprofen,Gemfibrozil,Arrhythmia
+P0978,77,Female,Cancer,Delavirdine,Vinpocetine,Dizziness
+P0979,47,Male,Cancer,Prednylidene,Lenalidomide,Fatigue
+P0980,51,Male,Hypertension,Paliperidone,Vinbarbital,Dizziness
+P0981,37,Male,Cancer,Dirithromycin,Erdafitinib,Arrhythmia
+P0982,38,Male,Arthritis,Estradiol benzoate,Levomilnacipran,Dizziness
+P0983,34,Male,Diabetes,Guanoxabenz,Metaraminol,Nausea
+P0984,74,Male,Arthritis,X-376,Procaine,Vomiting
+P0985,25,Male,Arthritis,Carbaspirin calcium,Methoxyphenamine,Headache
+P0986,84,Male,Asthma,Diphenadione,Sisomicin,Arrhythmia
+P0987,30,Female,Kidney disease,Zaltoprofen,Gemifloxacin,Vomiting
+P0988,83,Male,Asthma,NGX267,Atenolol,Vomiting
+P0989,54,Female,Cancer,Indacaterol,Phenglutarimide,Arrhythmia
+P0990,78,Male,Asthma,Rucaparib,Efavirenz,Vomiting
+P0991,80,Female,Stroke,Ibuproxam,Endralazine,Nausea
+P0992,34,Female,Heart disease,Buprenorphine,"Dihydro-2-thioxo-5-((5-(2-(trifluoromethyl)phenyl)-2-furanyl)methyl)-4,6(1H,5H)-pyrimidinedione",Arrhythmia
+P0993,74,Male,Arthritis,Curcumin sulfate,Doxepin,Headache
+P0994,19,Male,Stroke,Pregabalin,Azacitidine,Kidney damage
+P0995,71,Female,Diabetes,Secobarbital,Sibutramine,Bleeding
+P0996,20,Female,Heart disease,Ramiprilat,Mirabegron,Bleeding
+P0997,58,Male,Cancer,Methylenedioxyethamphetamine,Chlorpromazine,Dizziness
+P0998,70,Male,Liver disease,Levonorgestrel,Salmeterol,Fatigue
+P0999,21,Male,Depression,Binimetinib,Benzocaine,Kidney damage
